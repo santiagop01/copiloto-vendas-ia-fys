@@ -1,7 +1,8 @@
 # 🤖 Copiloto de Vendas com IA — Marca FYS
 
-<img src="capa-projeto.png" alt="Capa do Projeto" width="800"/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/santiagop01/copiloto-vendas-ia-fys/main/capa-projeto.png" alt="Capa do Projeto" width="800"/>
+</div>
 ---
 
 ## 🎯 Tema do Projeto
