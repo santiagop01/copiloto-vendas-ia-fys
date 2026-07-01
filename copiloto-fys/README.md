@@ -1,7 +1,13 @@
 # 🤖 Copiloto de Vendas com IA — Marca FYS
 
-## 🎯 Tema Escolhido
-Desenvolvimento de uma solução de apoio ao atendimento e às vendas da marca **FYS**, refrigerante do portfólio do Grupo HEINEKEN. O objetivo é criar um suporte prático e alinhado com a realidade da marca.
+<div align="center">
+  <img src="https://i.imgur.com/7t9kfQH.png" alt="Capa do Projeto - Copiloto FYS" width="800"/>
+</div>
+
+---
+
+## 🎯 Tema do Projeto
+Desenvolvimento de uma ferramenta de apoio inteligente para atendimento e vendas da marca **FYS**, refrigerante do portfólio do Grupo HEINEKEN...
 
 ---
 
